@@ -1,0 +1,365 @@
+
+cloc in vtu of:21
+input pmt
+
+page5
+frame5
+
+
+
+
+
+cloc in vtu of:27
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+input pmt
+
+page5
+frame5
+
+
+
+
+
+cloc in vtu of:31
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+input pmt
+
+page5
+frame5
+
+
+
+
+
+cloc in vtu of:66
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+input pmt
+
+page5
+frame5
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:70
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+input pmt
+
+page5
+frame5
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:79
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+input pmt
+
+page5
+frame5
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:99
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+
+program pmt
+page:2
+frame20
+input pmt
+
+page5
+frame5
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:107
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+
+program pmt
+page:2
+frame20
+input pmt
+
+page5
+frame5
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:124
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+
+program pmt
+page:2
+frame20
+
+program pmt
+page:4
+frame31
+input pmt
+
+page5
+frame5
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:137
+
+program pmt
+page:3
+frame5
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+
+program pmt
+page:2
+frame20
+
+program pmt
+page:4
+frame31
+input pmt
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:154
+
+program pmt
+page:3
+frame5
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+
+program pmt
+page:2
+frame20
+
+program pmt
+page:4
+frame31
+input pmt
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:167
+
+program pmt
+page:3
+frame5
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+
+program pmt
+page:2
+frame20
+
+program pmt
+page:4
+frame31
+input pmt
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:186
+
+program pmt
+page:3
+frame5
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+
+program pmt
+page:2
+frame20
+
+program pmt
+page:4
+frame31
+input pmt
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+cloc in vtu of:198
+
+program pmt
+page:3
+frame5
+
+program pmt
+page:1
+frame8
+
+program pmt
+page:0
+frame10
+
+program pmt
+page:2
+frame20
+
+program pmt
+page:4
+frame31
+input pmt
+
+
+
+
+
+output pmt
+page: 7
+frame: 17
+
+***************************************************************************************************output*********************************************************************************************************
+JobID(DEC) = 0
+ JobID : 0
+ input Data Segment (DEC) : 2
+0 output Data Segment (DEC) : 4
+0112
+termination was normal
+clock Value at termination (hex):0xcb
+Runtime (DEC) :203
+execution time (HEX):
+runtime value = 0xcb
+
+Input output time value = 75
+execution time value = 128
+Pagefault time(DEC)70
+segmentation fault time(DEC):10
+Memory Utilization:
+ratio of pages = 6/32
+percentage of words18%
+ratio of words.4/256
+Disk utilization
+ratio of pages =7/256
+percentage of words = 2%
+memory fragmentation (DEC):5  words( acerage of 3 segments
+disk fragmentation (DEC):5  words( acerage of 3 segments

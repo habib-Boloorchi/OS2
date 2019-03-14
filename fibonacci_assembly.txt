@@ -1,0 +1,50 @@
+//Author : Habib Boloorchi
+//this code write Fibonacci sequence and show n time the output
+//n is acquire from user
+// the flag role is to fine the last number that has been shown and swapping A and B
+
+
+
+start     	RD		//read the number of outputfiles
+		POP	COUNT	//pop the input to counter in order to know how many input shoul
+		PUSH	A	//push A which is equal to 0
+		PUSH	B	//push B which is equal to 1 just to show the first two members of output
+		WR		//write A and B
+		WR
+LOOP		PUSH	A	//again push A and B
+		PUSH	B	//
+		ADD		//
+		POP	ANS	//
+		PUSH	ANS	//
+		WR		//
+		PUSH	COUNTER	// we decrrese the counter  one unit here
+		SUB	ONE	//
+		CPE	ZERO	//
+		BRT	HALT	//
+		POP	COUNT	//	
+		PUSH	ANS	//
+		PUSH	FLAG	//
+		BRT	ALABEL	//
+		BR	BLABEL	//
+ALABEL		POP	A			//for assigning the answer to b
+		PUSH	FLAG
+		NOT
+		POP	FLAG
+		BR 	LOOP
+BLABEL		POP	B			// for assigning answer to a
+		PUSH 	FLAG
+		NOT	FLAG
+		POP  	FLAG
+		BR	LOOP
+
+
+
+
+_______________________________________________
+zero 	0000
+A     	0001
+B	0000
+count	0000
+ANS	0000
+FLAG	0000
+ONE	0001		
